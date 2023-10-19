@@ -1,3 +1,3 @@
 # python-project
 
-This reposity is created by abhirup mukherjee
+This reposity is created by Abhirup Mukherjee
